@@ -1,8 +1,9 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/Z9nyDUIvUPNKg/giphy.gif" width="300">
-</div>
 
 ### Hi, I'm Jacque👩🏻‍💻🧚🏻‍♂️
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmloZTh3cnJiYmN4Z2p1bTd1dm80dGlrZ3VnN3A5OGVha3B0dmRrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QRdHSlLOMha5G/giphy.gif" width="200"/>
+</div>
 
 <!--
 **JacqueCso/JacqueCso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
